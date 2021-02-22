@@ -1,0 +1,95 @@
+.ui.borderless.topmenu.menu {
+  color: white;
+  background-color: #29abe2;
+  box-shadow: none;
+  border: none;
+  font-family: "HartwellAlt-Medium", sans-serif;
+
+}
+
+.ui.borderless.middlemenu.menu {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 19px;
+  border: none;
+}
+
+.ui.borderless.neartop.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.textColor {
+  color: rgb(41, 171, 226);
+}
+
+.ui.centered.grid.login.container {
+  padding: 200px 80px 50px 80px;
+  text-align: center;
+
+
+  font-family: 'Oxygen', sans-serif;
+}
+
+.padding {
+  color: rgb(180, 180, 180);
+  font-family: "HartwellAlt-Medium", sans-serif;
+  font-size: 13px;
+}
+
+.ui.centered.grid.email.container {
+  border-bottom-width: 1.33px;
+  border-left-width: 1.33px;
+  border-top-width: 1.33px;
+  border-right-width: 1.33px;
+  padding: 13px 14px 13px 14px;
+
+}
+
+::placeholder {
+  color: rgb(41, 171, 226) !important;
+}
+
+.email {
+  width: 369.333px;
+  height: 45px;
+  color: rgb(41, 171, 226) !important;
+}
+
+.loginButton {
+  width: 369.333px;
+  height: 45px;
+  background-color: rgb(41, 171, 226) !important;
+  color: white !important;
+}
+
+.forgot {
+  position: absolute;
+  top: 30px;
+  right: 25px;
+  font-size: 10px;
+  color: rgb(180, 180, 180);
+}
+
+.anotherBlue {
+  color: rgb(41, 171, 226);
+}
+
+.footer {
+  margin-top: 240px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-family: 'Oxygen', sans-serif;
+  background-color: rgb(42, 42, 42)
+}
+
+.footerText{
+  font-family: 'Oxygen', sans-serif;
+  color:white !important;
+}
+.smallFooter{
+  font-size: 10px;
+}
+.copyright{
+  padding-top:35px;
+  font-size: 9px;
+}
